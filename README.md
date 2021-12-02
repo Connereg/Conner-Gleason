@@ -1,4 +1,4 @@
-# Conner-Gleason
+# Conner Gleason
 💾 📢 💾
 Hello! My name is Conner Gleason, and this is my personal github account for projects, demos and learning alongside other developers!
 Here you can view many of the projects I have worked on over the years and see the associated demos for these projects, as well as the aggregation of many of the learning tools I have used in my time as a Software Developer. 
