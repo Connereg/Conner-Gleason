@@ -8,9 +8,8 @@ Thank you for visiting my page! If you find my work interesting or would like to
 Recent Projects: 
 'Mashly' Video Masher App: https://github.com/Connereg/MashlyAppBackend 🔗
 
-'Transferre' Budgeting App: 
-
-
+'Transferre' Budgeting App:
+<br/>
 Backend - https://github.com/Connereg/transferre-v3 🔗
 Frontend - https://github.com/Connereg/transferre-v3-frontend 🔗
 
